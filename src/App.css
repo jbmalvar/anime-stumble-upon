@@ -71,3 +71,28 @@ body {
 .Discover:hover {
     border-color: red;
 }
+
+.buttons {
+    width: 10vh;
+    height: 4vh;
+    border-radius: 20px;
+    background-color: #f4f4f4;
+}
+
+.buttons:hover {
+    border-color: red;
+}
+
+.animeDetails {
+    display: flex;
+    flex-direction: column;
+}
+
+.animeDetails img {
+    max-width: 90%; /* Limit the width to the container's width */
+    max-height: 400px; /* Set a maximum height for the image */
+    width: auto; /* Maintain the aspect ratio */
+    height: auto; /* Maintain the aspect ratio */
+    border-radius: 10px; /* Optional: Add rounded corners */
+    object-fit: contain; /* Ensure the image fits within the bounds */
+}
