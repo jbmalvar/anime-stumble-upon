@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Untitled design](https://github.com/user-attachments/assets/c9e16843-75c4-4290-baf6-a27b65720b45)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -46,7 +46,7 @@ Screen Record then Canva Conver
 
 Describe any challenges encountered while building the app.
 
-I was really stuck on the ban list and it wasn't as I hoped, but this is good enough. 
+I was really stuck on the ban list and it wasn't as I hoped, but this is good enough. I could have made the parser better, but I settled for just while looping until you found one. COMPLETELY INEFFICIENT, but a job is a job done. I got other stuff to focus on.
 
 ## License
 
