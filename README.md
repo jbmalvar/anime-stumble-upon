@@ -26,7 +26,6 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [X] List anything else that you added to improve the site's functionality!
-* [X] Added when clicking on banned attribute, it's removed and can be found again. 
 
 ## Video Walkthrough
 
@@ -36,6 +35,8 @@ Here's a walkthrough of implemented user stories:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
+
+Screen Record then Canva Conver
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -45,9 +46,11 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
+I was really stuck on the ban list and it wasn't as I hoped, but this is good enough. 
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [James Joshua Malvar]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
