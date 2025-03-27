@@ -66,9 +66,6 @@ function App() {
         </div>
         <button className="Discover" onClick={getRandomAnime}>Discover</button>
       </div>
-      <div className="BanList">
-        <h1>Ban List</h1>
-      </div>
     </div>
   )
 }
