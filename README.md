@@ -28,6 +28,7 @@ The following **additional** features are implemented:
 * [X] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
+Here's Imgur: https://imgur.com/a/ytPH2SP
 
 Here's a walkthrough of implemented user stories:
 
